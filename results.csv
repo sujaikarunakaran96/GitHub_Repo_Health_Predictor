@@ -1,0 +1,2 @@
+input_size,hidden_units,dropout,learning_rate,n_ahead,val_split,epochs,verbose,plot,mse,mean_training_loss,std_training_loss,mean_val_loss,std_val_loss
+20,100,True,4e-05,12,0.2,20,False,False,0.020207803307587837,0.03972504530102015,0.001143905901556478,0.02347993813455105,0.0001370391976991491
